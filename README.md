@@ -11,6 +11,7 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover states for all interactive elements on the page
+- check desktop-preview and mobile-preview images
 
 
 ### Links
